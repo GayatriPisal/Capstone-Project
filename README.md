@@ -1,2 +1,0 @@
-# Capstone-Project
-LearnHub project

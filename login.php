@@ -94,9 +94,10 @@
 								<a class="dropdown-item" href="language.php">Language</a>
 								<a class="dropdown-item" href="communication.php">Communication</a>
 								<a class="dropdown-item" href="business.php">Business</a>
-								<a class="dropdown-item" href="software.php">Software</a>
-								<a class="dropdown-item" href="social_media.php">Social Media</a>
-								<a class="dropdown-item" href="photography.php">Photography</a>
+								
+							<!--	<a class="dropdown-item" href="course_details.php">Course Details</a>
+								<div class="dropdown-divider"></div>
+								<a class="dropdown-item" href="form.php">Apply Now</a>  -->
 							</div>
 						</li>
 						<li class="nav-item">
@@ -177,8 +178,8 @@
 		<div class="copyright-agiles py-3">
 			<div class="container">
 				<div class="row">
-					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by
-						<a href="https://w3layouts.com/" target="_blank">team 2</a>
+					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by Team 2
+						
 					</p>
 					<!-- social icons -->
 					<div class="social-icons text-lg-right text-center col-lg-4 mt-lg-0 mt-3">

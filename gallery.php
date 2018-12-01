@@ -47,7 +47,7 @@
 			<div class="container">
 				<div class="row">
 					<h1 class="text-capitalize text-white col-7">
-						<i class="fas fa-book text-dark bg-white p-2 rounded-circle mr-3"></i>welcome to edulearn</h1>
+						<i class="fas fa-book text-dark bg-white p-2 rounded-circle mr-3"></i>welcome to LearnHub</h1>
 					<!-- social icons -->
 					<div class="social-icons text-right col-5">
 						<ul class="list-unstyled">
@@ -132,9 +132,7 @@
 								<a class="dropdown-item" href="language.php">Language</a>
 								<a class="dropdown-item" href="communication.php">Communication</a>
 								<a class="dropdown-item" href="business.php">Business</a>
-								<a class="dropdown-item" href="software.php">Software</a>
-								<a class="dropdown-item" href="social_media.php">Social Media</a>
-								<a class="dropdown-item" href="photography.php">Photography</a>
+								
 							<!--	<a class="dropdown-item" href="course_details.php">Course Details</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="form.php">Apply Now</a>  -->
@@ -162,10 +160,11 @@
 						<li class="nav-item">
 							<a class="nav-link text-white" href="contact.php">Contact Us</a>
 						</li>
+						<li class="nav-item">
+							<a class="nav-link text-white" href="login.php" style="float:right;">Login</a>
+						</li>
+						
 					</ul>
-					<div align="right">
-					   <a href="login.php" class="button-head-mow3 text-white">Login</a>
-				   </div>
 				</div>
 			</nav>
 		</div>
@@ -345,8 +344,8 @@
 		<div class="copyright-agiles py-3">
 			<div class="container">
 				<div class="row">
-					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by
-						<a href="https://w3layouts.com/" target="_blank">team 2</a>
+					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by Team 2
+						
 					</p>
 					<!-- social icons -->
 					<div class="social-icons text-lg-right text-center col-lg-4 mt-lg-0 mt-3">

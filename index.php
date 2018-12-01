@@ -175,9 +175,7 @@
 								<a class="dropdown-item" href="language.php">Language</a>
 								<a class="dropdown-item" href="communication.php">Communication</a>
 								<a class="dropdown-item" href="business.php">Business</a>
-								<a class="dropdown-item" href="software.php">Software</a>
-								<a class="dropdown-item" href="social_media.php">Social Media</a>
-								<a class="dropdown-item" href="photography.php">Photography</a>
+								
 							<!--	<a class="dropdown-item" href="course_details.php">Course Details</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="form.php">Apply Now</a>  -->
@@ -228,7 +226,7 @@
 					<h3 class="text-capitalize text-right font-weight-light font-italic">interface friendly learning at
 						<span class="font-weight-bold">LearnHub</span>
 					</h3>
-					<p class="text-right my-4 pr-4 border-right">Short introduction about LearnHub.</p>
+					
 					<div class="about_left-list">
 						<h6 class="mb-lg-3 mb-2 font-weight-bold text-dark">Our Benefits</h6>
 						<ul class="list-unstyled">
@@ -439,7 +437,7 @@
 	</div>
 	<!-- //course -->
 
-	<!-- what we do -->
+	<!-- what we do 
 	<div class="why-choose-agile py-5">
 		<div class="container py-xl-5 py-lg-3">
 			<h3 class="title text-capitalize font-weight-light text-white text-center mb-5">what we
@@ -836,8 +834,8 @@ echo"<video width='520' height='340' controls>
 		<div class="copyright-agiles py-3">
 			<div class="container">
 				<div class="row">
-					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by
-						<a href="https://w3layouts.com/" target="_blank">team 2</a>
+					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by Team 2
+						
 					</p>
 					<!-- social icons -->
 					<div class="social-icons text-lg-right text-center col-lg-4 mt-lg-0 mt-3">

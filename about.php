@@ -134,9 +134,7 @@
 								<a class="dropdown-item" href="language.php">Language</a>
 								<a class="dropdown-item" href="communication.php">Communication</a>
 								<a class="dropdown-item" href="business.php">Business</a>
-								<a class="dropdown-item" href="software.php">Software</a>
-								<a class="dropdown-item" href="social_media.php">Social Media</a>
-								<a class="dropdown-item" href="photography.php">Photography</a>
+								
 							<!--	<a class="dropdown-item" href="course_details.php">Course Details</a>
 								<div class="dropdown-divider"></div>
 								<a class="dropdown-item" href="form.php">Apply Now</a>  -->
@@ -164,10 +162,11 @@
 						<li class="nav-item">
 							<a class="nav-link text-white" href="contact.php">Contact Us</a>
 						</li>
+						<li class="nav-item">
+							<a class="nav-link text-white" href="login.php" style="float:right;">Login</a>
+						</li>
+						
 					</ul>
-					<div align="right">
-					   <a href="login.php" class="button-head-mow3 text-white">Login</a>
-				   </div>
 				</div>
 			</nav>
 		</div>
@@ -197,11 +196,8 @@
 				</div>
 				<div class="col-lg-6 right-abw3ls mt-lg-0 mt-sm-5 mt-4">
 					<h4 class="font-italic border-bottom text-center font-weight-bold pb-3 mb-4">Our History</h4>
-					<p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-						laboris nisi, Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-						ullamco laboris nisi. </p>
-					<p class="mt-3">Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi, Eiusmod tempor
-						incididunt ut labore et dolore magna aliqua. Ut enim ad.</p>
+					<p>LearnHub helps organizations of all kinds prepare for the ever-evolving future of work. Our curated collection of top-rated business and technical courses gives companies, governments, and nonprofits the power to develop in-house expertise and satisfy employees’ hunger for learning and development. </p>
+					
 				</div>
 			</div>
 		</div>
@@ -217,10 +213,8 @@
 				</div>
 				<div class="col-lg-4 right-abw3ls my-lg-0 my-sm-5 my-4">
 					<h4 class="font-italic border-bottom text-center font-weight-bold pb-3 mb-4">Our Mission</h4>
-					<p>Eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-						laboris nisi. </p>
-					<p class="mt-3">Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi, Eiusmod tempor
-						incididunt ut labore et dolore magna aliqua. Ut enim ad.</p>
+					<p>LearnHub employees live out our values every day as learners and teachers ourselves. Our culture is diverse, inclusive, and committed to personal and professional development. We’re not afraid to take on a new challenge, and we love taking LearnHub courses!</p>
+					
 				</div>
 				<div class="col-lg-4 left-abw3ls text-lg-left text-center">
 					<img src="images/ap-3.jpg" alt="" class="img-fluid">
@@ -346,115 +340,7 @@
 	</div>  -->
 	<!-- //team -->
 
-	<!-- what we do -->
-	<div class="why-choose-agile py-5">
-		<div class="container py-xl-5 py-lg-3">
-			<h3 class="title text-capitalize font-weight-light text-white text-center mb-5">what we
-				<span class="font-weight-bold">do</span>
-			</h3>
-			<div class="row agileits-w3layouts-grid pt-md-4">
-				<div class="col-lg-4 services-agile-1">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="fab fa-accusoft"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">special education</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 services-agile-1 my-lg-0 my-5">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="fas fa-book"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">full day session</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 services-agile-1">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="fas fa-users"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">qualified teachers</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row agileits-w3layouts-grid mt-5">
-				<div class="col-lg-4 services-agile-1">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="far fa-calendar-alt"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">events</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 services-agile-1  my-lg-0 my-5">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="fas fa-graduation-cap"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">pre classes</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4 services-agile-1">
-					<div class="row wthree_agile_us">
-						<div class="col-lg-3 col-md-2 col-3  agile-why-text">
-							<div class="wthree_features_grid text-center p-3 border rounded">
-								<i class="far fa-clock"></i>
-							</div>
-						</div>
-						<div class="col-9 agile-why-text-2">
-							<h4 class="text-capitalize text-white font-weight-bold mb-3">24/7 supports</h4>
-							<p>Lorem ipsum magna, vehicula ut scelerisque ornare porta ete celerisque ornare.</p>
-							<a class="btn mt-3 service-button p-0" href="about.php" role="button">Read More
-								<i class="fas fa-long-arrow-alt-right ml-1"></i>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- //what we do -->
+	
 
 	<!-- video and events -->
 <!--	<div class="video-choose-agile py-5">
@@ -734,8 +620,8 @@
 		<div class="copyright-agiles py-3">
 			<div class="container">
 				<div class="row">
-					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by
-						<a href="https://w3layouts.com/" target="_blank">team 2</a>
+					<p class="col-lg-8 copy-right-grids text-white text-lg-left text-center mt-lg-1">© 2018 LearnHub. All Rights Reserved | Design by Team 2
+						
 					</p>
 					<!-- social icons -->
 					<div class="social-icons text-lg-right text-center col-lg-4 mt-lg-0 mt-3">
