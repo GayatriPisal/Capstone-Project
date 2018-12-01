@@ -246,7 +246,7 @@ $result = mysqli_query($conn,$sqlCheck);
 		//$message = "Successfully LOGGED in";
 		//echo "<script type='text/javascript'>alert('$message');</script>"; 
 		//ac();
-		echo '<script> window.location="index.php";</script>';
+		echo '<script> window.location="studenthome.php";</script>';
 		
 	//	header('Location: learnhub/index.php');
 		
