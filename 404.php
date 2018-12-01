@@ -51,7 +51,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<div class="container">
 				<div class="row">
 					<h1 class="text-capitalize text-white col-7">
-						<i class="fas fa-book text-dark bg-white p-2 rounded-circle mr-3"></i>welcome to edulearn</h1>
+						<i class="fas fa-book text-dark bg-white p-2 rounded-circle mr-3"></i>welcome to learnhub</h1>
 					<!-- social icons -->
 					<div class="social-icons text-right col-5">
 						<ul class="list-unstyled">
